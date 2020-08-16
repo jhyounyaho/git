@@ -1,2 +1,2 @@
 # git 
-git study 
+git study clone  
